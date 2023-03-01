@@ -1,0 +1,25 @@
+
+    .navbar-links{
+li{
+    margin: 0 1.2em;
+    font-family:sans-serif;
+    font-weight:500;
+a{
+  
+    transition: .5s ease-in-out;
+    &:hover{
+        color: var(--color-golden);
+    }
+}
+}
+    }
+    .login-book_table{
+        transition: .5s ease-in-out;
+        padding: 5px;
+        font-weight: bold;
+          color: #fefefe;
+        &:hover{
+            border-bottom: 2px solid var(--color-golden);
+        }
+    }
+
