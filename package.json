@@ -1,7 +1,7 @@
 {
   "name": "resturant",
   "version": "0.1.0",
-  "homepage":"https://armada6199.github.io/resturant",
+  "homepage":".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
